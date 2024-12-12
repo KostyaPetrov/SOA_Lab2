@@ -1,2 +1,10 @@
 ru\konstantinpetrov\service\WorkerResource.class
-ru\konstantinpetrov\service\RestApplication.class
+ru\konstantinpetrov\model\Status.class
+ru\konstantinpetrov\model\Address.class
+ru\konstantinpetrov\model\Coordinates.class
+ru\konstantinpetrov\model\Position.class
+ru\konstantinpetrov\model\OrganizationType.class
+ru\konstantinpetrov\model\Worker.class
+ru\konstantinpetrov\RestApplication.class
+ru\konstantinpetrov\model\Location.class
+ru\konstantinpetrov\model\Organization.class
